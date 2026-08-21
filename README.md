@@ -52,9 +52,9 @@ You do not need to ask for permission for these activities.
 
 ## Attribution
 
-Copies or substantial portions of the Work must retain the applicable copyright notice and the Feel Free License.
+The copyright notice, attribution to the original author or authors, and a reference or link to this License shall be included in all copies or substantial portions of the Work.
 
-Where practical and appropriate, reasonable attribution to the original author should also be provided.
+For modified or derivative works, applicable copyright notices and attribution identifying previous authors or copyright holders, including those of the original Work and earlier derivative works, shall also be retained.
 
 ## Voluntary license fee
 
@@ -148,7 +148,9 @@ A full copy of the license should be included in a file such as `LICENSE`, `LICE
 > 
 > Permission is hereby granted, free of charge and without any obligation of payment, to any person obtaining a copy of this work and associated materials, documentation, content, designs, specifications, or other materials (collectively, the "Work"), to deal in the Work without restriction, including without limitation the rights to use, copy, reproduce, modify, adapt, merge, translate, transform, create derivative works from, distribute, publish, sublicense, sell, or otherwise make available the Work, and to permit persons to whom the Work is furnished to do so, subject to the following condition:
 > 
-> The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Work.
+> The above copyright notice, attribution to the original author or authors, and a reference or link to this License shall be included in all copies or substantial portions of the Work.
+> 
+> For modified or derivative works, applicable copyright notices and attribution identifying previous authors or copyright holders, including those of the original Work and earlier derivative works, shall also be retained.
 > 
 > ## Voluntary License Fee
 > 
