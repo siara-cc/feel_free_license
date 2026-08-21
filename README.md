@@ -201,4 +201,4 @@ A full copy of the license should be included in a file such as `LICENSE`, `LICE
 
 ## Feedback
 
-Feel free to communicate suggestions, improvements, objections and corrections to Arundale Ramanathan at arun@siara.cc.
+If you have suggestions, improvements, objections or corrections, please feel free to create issues here or send email to Arundale Ramanathan at arun@siara.cc.
